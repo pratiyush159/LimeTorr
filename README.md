@@ -1,12 +1,9 @@
 <a href="https://rohtanshsehgal.github.io/FlixTorr/"><img src="./src/images/falconnew.png" align="left" ></a>
 
-## ![**FlixTorr**](./src/images/FlixTorr.svg)
 
-# **_FlixTorr fetches the magnets link of trending movies and series!_**
+# **_LimeTorr fetches the magnets link of trending movies and series!_**
 
-# _**[Visit Website](https://flixtorr.web.app/)**_
-
-## ![**FlixTorr UI**](./src/images/Final.jpg)
+# _**[Visit Website](https://limeTorr.web.app/)**_
 
 ## **General Use**
 
